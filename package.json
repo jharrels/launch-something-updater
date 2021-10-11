@@ -1,0 +1,25 @@
+{
+  "name": "boxily-updater",
+  "version": "1.0.0",
+  "description": "Updater for Boxily.",
+  "main": "main.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "npm test",
+    "build": "pkg . -t node16-win-x64"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jharrels/boxily-updater.git"
+  },
+  "keywords": [
+    "updater",
+    "boxily"
+  ],
+  "author": "Justin Harrelson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jharrels/boxily-updater/issues"
+  },
+  "homepage": "https://github.com/jharrels/boxily-updater#readme"
+}
